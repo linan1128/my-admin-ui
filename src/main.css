@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .h-px-50 {
+        height: 50px;
+    }
+    .h-px-100 {
+        height: 100px;
+    }
+    .h-px-150 {
+        height: 150px;
+    }
+    .h-px-200 {
+        height: 200px;
+    }
+
+    .left-px-50 {
+        left: 50px;
+    }
+    .left-px-100 {
+        left: 100px;
+    }
+    .left-px-150 {
+        left: 150px;
+    }
+    .left-px-200 {
+        left: 200px;
+    }
+}
